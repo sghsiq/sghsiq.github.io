@@ -2,8 +2,8 @@ http://119.188.247.121:4000/posts/51c6f19f/
 http://119.188.247.121:4000/about/index.html
 http://119.188.247.121:4000/categories/index.html
 http://119.188.247.121:4000/guestbook/index.html
-http://119.188.247.121:4000/playlist/index.html
 http://119.188.247.121:4000/links/index.html
+http://119.188.247.121:4000/playlist/index.html
 http://119.188.247.121:4000/tags/index.html
 http://119.188.247.121:4000/posts/aba1c692/
 http://119.188.247.121:4000/
